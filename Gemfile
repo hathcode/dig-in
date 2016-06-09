@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+
+
+#alternative pagination gem:
+gem 'will_paginate-bootstrap'
+
 #Include bootstrap:
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
