@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem 'simple_form'
 
 #alternative pagination gem:
 gem 'will_paginate-bootstrap'
